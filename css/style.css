@@ -9,7 +9,7 @@
     display: table;
     clear: both;
 }
-.columnt {
+.column {
     /*flex: 1;
     padding: 1rem;
     text-align: center;
@@ -20,7 +20,7 @@
 
   }
 
-.header-right img{
+.column img{
     max-width: 300px;
     border-radius: 20%;
 }
