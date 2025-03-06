@@ -5,16 +5,12 @@
     width: 100%;
     background-color: powderblue;
 }
-.header-left {
-    flex: 2;
+.header-left, .header-right {
+    flex: 1;
     padding: 1rem;
     text-align: center;
   }
-.header-right {
-    flex: 2;
-    padding: 1rem;
-    text-align: center;
-}
+
 .header-right .img{
     width: 100%;
 }
