@@ -10,13 +10,13 @@
     clear: both;
 }*/
 
-main {
+body main {
     display: flex;
     justify-content: space-between; 
     flex-wrap: wrap; /* Ensures responsiveness */
 }
 
-.section1{
+body main .section1{
     /*flex: 1;
     padding: 1rem;
     text-align: center;
@@ -27,7 +27,8 @@ main {
 
 
   }
-  .section2{
+
+body main .section2{
     /*flex: 1;
     padding: 1rem;
     text-align: center;
