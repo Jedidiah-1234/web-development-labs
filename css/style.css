@@ -9,13 +9,13 @@
     display: table;
     clear: both;
 }*/
-.column{
+.section1, .section2{
     /*flex: 1;
     padding: 1rem;
     text-align: center;
     width: 50%;*/
     float: left;
-    width: 50%;
+    width: 40%;
 
 
   }
