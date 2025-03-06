@@ -21,6 +21,7 @@ body main .section1{
     padding: 1rem;
     text-align: center;
     width: 50%;*/
+    background-color: powderblue;
     float: left;
     width: 40%;
     max-width: 40%;
@@ -33,6 +34,7 @@ body main .section2{
     padding: 1rem;
     text-align: center;
     width: 50%;*/
+    background-color: red;
     float: right;
     width: 40%;
     max-width: 40%;
