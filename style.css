@@ -10,11 +10,12 @@
     clear: both;
 }*/
 
+/*
 body main {
   display: flex;
   justify-content: space-between; 
-  flex-wrap: wrap; /* Ensures responsiveness */
-}
+  flex-wrap: wrap; /* Ensures responsiveness 
+}*/
 
 body main .section1{
   /*flex: 1;
@@ -23,8 +24,8 @@ body main .section1{
   width: 50%;*/
   background-color: powderblue;
   float: left;
-  width: 40%;
-  max-width: 40%;
+  width: 50%;
+  max-width: 50%;
 
 
 }
@@ -36,8 +37,8 @@ body main .section2{
   width: 50%;*/
   background-color: red;
   float: right;
-  width: 40%;
-  max-width: 40%;
+  width: 50%;
+  max-width: 50%;
 
 }
 
