@@ -1,4 +1,4 @@
-.top-section {
+.row {
     /*display: flex;
     gap: 10px;
     padding: 10px;
@@ -9,7 +9,7 @@
     display: table;
     clear: both;
 }
-.header-left, .header-right {
+.columnt {
     /*flex: 1;
     padding: 1rem;
     text-align: center;
